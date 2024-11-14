@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+# NAME:DINESH KARTHICK K J
+# REG NO:212222100011
 
 
 # AIM: 
